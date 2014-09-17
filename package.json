@@ -1,0 +1,30 @@
+{
+  "name": "hubot-timer-arm",
+  "version": "0.0.0",
+  "description": "A Hubot arm that setTimeout using Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/hubot-timer-arm.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-arms"
+  ],
+  "author": {
+    "name": "bouzuya",
+    "mail": "m@bouzuya.net",
+    "url": "http://bouzuya.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouzuya/hubot-timer-arm/issues"
+  },
+  "homepage": "https://github.com/bouzuya/hubot-timer-arm",
+  "dependencies": {
+    "q": "^1.0.1"
+  }
+}
