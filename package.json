@@ -1,6 +1,6 @@
 {
   "name": "hubot-timer-arm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Hubot arm that setTimeout using Promise",
   "main": "index.js",
   "scripts": {
